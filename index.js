@@ -10,8 +10,8 @@ var pattern = function (file) {
 };
 
 var framework = function (files) {
-    files.unshift(patten(path.resolve(require.resolve('js-must'), '../dist/js-must.js')));
+    files.unshift(pattern(path.resolve(require.resolve('must'), '../dist/js-must.js')));
 };
 
 framework.$inject = ['config.files'];
-module.exports = {'framework:js-must': ['factory', framework]};
+module.exports = {'framework:must': ['factory', framework]};

@@ -1,5 +1,5 @@
 {
-  "name": "karma-js-must",
+  "name": "karma-must",
   "version": "0.1.0",
   "description": "Must.js for Karma",
   "main": "index.js",
@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/verkholantsev/karma-js-must.git"
+    "url": "https://github.com/verkholantsev/karma-must.git"
   },
   "keywords": [
     "karma",
     "karma-plugin",
-    "js-must",
+    "must",
     "must.js"
   ],
   "author": "Aleksey Verkholantsev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/verkholantsev/karma-js-must/issues"
+    "url": "https://github.com/verkholantsev/karma-must/issues"
   },
-  "homepage": "https://github.com/verkholantsev/karma-js-must",
+  "homepage": "https://github.com/verkholantsev/karma-must",
   "peerDependencies": {
     "must": "git+https://github.com/verkholantsev/js-must.git"
   }
