@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/verkholantsev/karma-must",
   "peerDependencies": {
-    "must": "git+https://github.com/verkholantsev/js-must.git"
+    "must": "verkholantsev/js-must"
   }
 }
