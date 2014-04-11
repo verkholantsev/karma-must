@@ -12,6 +12,7 @@
   },
   "keywords": [
     "karma",
+    "karma-adapter",
     "karma-plugin",
     "must",
     "must.js"
