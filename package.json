@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/verkholantsev/karma-must",
   "peerDependencies": {
-    "must-dist": "0.11.x"
+    "must-dist": "0.11.x",
+    "karma": ">=0.10.9"
   }
 }
