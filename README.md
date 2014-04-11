@@ -1,6 +1,8 @@
 Must.js for Karma
 =================
 
+[![NPM version](https://badge.fury.io/js/karma-must.svg)](http://badge.fury.io/js/karma-must)
+
 [Must.js](https://github.com/moll/js-must) for [Karma](http://karma-runner.github.io)
 
 Installation
