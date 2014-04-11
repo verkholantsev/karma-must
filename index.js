@@ -10,6 +10,7 @@ var pattern = function (file) {
 };
 
 var framework = function (files) {
+    files.unshift(pattern(path.join(__dirname, 'adapter.js')));
     files.unshift(pattern(path.resolve(require.resolve('must'), '../dist/js-must.js')));
 };
 
