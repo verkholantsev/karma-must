@@ -23,7 +23,7 @@ frameworks: ['mocha', 'must'],
 Usage
 -----
 
-Must.js assertations are available thru `Object.prototype`
+Must.js asserts are available thru `Object.prototype`
 
 ```javascript
 [].must.be.empty();
